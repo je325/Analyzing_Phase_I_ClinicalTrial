@@ -1,5 +1,4 @@
 # Clinical Trial Analysis Project
-Analyzing Phase I Clinical Trial
 This Jupyter notebook contains Python code that analyzes data from a Phase I clinical trial. The notebook addresses the following key questions.
 
 1. **Frequency and Severity of Adverse Events:** Summarizes the frequency and severity of adverse events observed during Phase I of a clinical trial.
